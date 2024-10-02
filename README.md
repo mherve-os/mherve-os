@@ -64,8 +64,9 @@ VALUES (1, 'African Elephant', 'Endangered');
 
 INSERT INTO Species (species_id, species_name, conservation_status)
 VALUES (2, 'Bald Eagle', 'Least Concern');
-![image](https://github.com/user-attachments/assets/2c76b4fd-bad9-41b7-9bf8-5ef142ec889e)
 ```
+![image](https://github.com/user-attachments/assets/2c76b4fd-bad9-41b7-9bf8-5ef142ec889e)
+
 ```sql
 -- Insert Region Data
 INSERT INTO Region (region_id, region_name, climate_type)

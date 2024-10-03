@@ -1,16 +1,13 @@
-- 👋 Hi, I’m @mherve-os
-- 👀 I’m interested in IT/Information Management
-- 🌱 I’m currently learning  Database Development with PL/SQL
-- 💞️ I’m looking to collaborate on My database The Wildlife Research Database System is designed to help scientists and researchers track animal sightings,monitor habitat conditions, and log research activities
--  across various regions. The system stores detailed information on animals, habitats, regions, and research conducted by different teams.
-- By capturing these interactions, researchers can gain insights into species distribution, habitat usage, and the impact of human activity on wildlife.
-- 📫 How to reach me: mherve2k@gmail.com
-- 😄 
-- ⚡ Fun fact: When separated elephants are reunited, they trumpet their trunks in delight
-- ![Wildlife Research Database System](https://github.com/user-attachments/assets/43d40232-80dd-4103-aafa-cb90ff84dc49)
+## The Wildlife Research Database System
+ My database The Wildlife Research Database System is designed to help scientists and researchers track animal sightings,monitor habitat conditions, and log research activities
+ across various regions. The system stores detailed information on animals, habitats, regions, and research conducted by different teams.
+ By capturing these interactions, researchers can gain insights into species distribution, habitat usage, and the impact of human activity on wildlife.
 
 
-The database supports:
+![Wildlife Research Database System](https://github.com/user-attachments/assets/43d40232-80dd-4103-aafa-cb90ff84dc49)
+
+
+##The database supports:
 
 Recording animal species and details about their sightings (date, time, location).
 Managing habitat information such as vegetation types and environmental factors.

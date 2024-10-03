@@ -7,7 +7,7 @@
 ![Wildlife Research Database System](https://github.com/user-attachments/assets/43d40232-80dd-4103-aafa-cb90ff84dc49)
 
 
-##The database supports:
+## The database supports:
 
 Recording animal species and details about their sightings (date, time, location).
 Managing habitat information such as vegetation types and environmental factors.
